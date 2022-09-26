@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a 4th-year PhD candidate in Computer Science at [University of California, Riverside](https://www1.cs.ucr.edu/). Before starting the doctorate journey in CS, I earned MS and BS degrees from [Duke University](https://duke.edu/) and [University of Science and Technology of China](https://en.ustc.edu.cn/), both in Chemistry. 
+I am a final-year PhD candidate in Computer Science at [University of California, Riverside](https://www1.cs.ucr.edu/). Before starting the doctorate journey in CS, I earned MS and BS degrees from [Duke University](https://duke.edu/) and [University of Science and Technology of China](https://en.ustc.edu.cn/), both in Chemistry. 
 
 I am currently focusing on performance optimization for math libraries on CPUs, GPUs and heterogeneous platforms. I have interned with the XPU Architecture Research team at [Intel Corporation](https://www.intel.com) working on GPU-accelerated homomorphic encryption. In 2022 Spring, I have been with the Machine Learning System team at ByteDance USA as a Research Intern. In 2022 Summer, I was with the Fast Kernels team at [NVIDIA Corporation](https://www.nvidia.com/en-us/) as an engineering intern, where I will return as a full-time employee after graduation.
 
