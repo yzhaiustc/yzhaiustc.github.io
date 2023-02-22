@@ -14,7 +14,7 @@ I am currently focusing on performance optimization for math libraries on CPUs, 
 
 News
 ======
-* Jan. 2023: The internship paper with Intel and NVIDIA was accepted at IPDPS'23.
+* Jan. 2023: The internship paper with ByteDance and NVIDIA was accepted at IPDPS'23.
 * Sept. 2022: I accepted a full-time offer from the Fast Kernels team at NVIDIA.
 * Jan. 2022: Received an internship offer from the Machine Learning System (AML-MLsys) team at ByteDance USA. 
 * Jan. 2022: The summer internship paper with Intel was accepted at IPDPS'22.
