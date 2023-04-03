@@ -7,6 +7,9 @@ author_profile: true
 
 <b>[<font color="navy">Google Scholar Profile</font>](https://scholar.google.com/citations?user=Op1bp3UAAAAJ&hl=en)</b>
 
+Alexander Lyashevsky, Alexey Titov, Yiqin Qiu, <b>Yujia Zhai</b>, <b>[<font color="navy">"XeHE: An Intel GPU Accelerated Fully Homomorphic Encryption Library"</font>](https://github.com/syclsparklers/XeHE/blob/master/Sparkler-XeHE.v001.pdf)</b>, <i>SYCL Sparklers</i>, Intel Corporation, 2023.
+
+
 <b>Yujia Zhai</b>, Chengquan Jiang, Leyuan Wang, Xiaoying Jia, Shang Zhang, Zizhong Chen, Xin Liu, and Yibo Zhu, <b>[<font color="navy">"ByteTransformer: A High-Performance Transformer Boosted for Variable-Length Inputs"</font>](https://arxiv.org/pdf/2210.03052.pdf)</b>, <i>IEEE International Parallel & Distributed Processing Symposium</i> (<b>IPDPS 2023</b>).
 
 <b>Yujia Zhai</b>, Mohannad Ibrahim, Yiqin Qiu, Fabian Boemer, Zizhong Chen, Alexey Titov, Alexander Lyashevsky, <b>[<font color="navy">"Accelerating Encrypted Computing on Intel GPUs"</font>](https://arxiv.org/pdf/2109.14704.pdf)</b>, <i>IEEE International Parallel & Distributed Processing Symposium</i> (<b>IPDPS 2022</b>).
