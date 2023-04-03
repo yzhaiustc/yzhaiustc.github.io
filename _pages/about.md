@@ -14,6 +14,7 @@ I am currently focusing on performance optimization for math libraries on CPUs, 
 
 News
 ======
+* Mar. 2023: The IPDPS'23 paper - ByteTransformer - was selected as Best Paper Finalist of the main conference.
 * Jan. 2023: The internship paper with ByteDance and NVIDIA was accepted at IPDPS'23.
 * Sept. 2022: I accepted a full-time offer from the Fast Kernels team at NVIDIA.
 * Jan. 2022: Received an internship offer from the Machine Learning System (AML-MLsys) team at ByteDance USA. 
