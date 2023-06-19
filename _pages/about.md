@@ -15,6 +15,7 @@ I am currently focusing on performance optimization for math libraries on CPUs, 
 News
 ======
 * June. 2023: I obtained my PhD degree in Computer Science and returned to the CUTLASS team at NVIDIA as a software engineer.
+* June. 2023: I was invited to give a talk at Biren Technology.
 * April. 2023: A paper was accepted at International Conference on Supercomputing 2023.
 * Mar. 2023: The IPDPS'23 paper - ByteTransformer - was selected as Best Paper Finalist of the main conference.
 * Jan. 2023: The internship paper with ByteDance and NVIDIA was accepted at IPDPS'23.
