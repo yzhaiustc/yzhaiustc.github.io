@@ -10,7 +10,7 @@ redirect_from:
 
 I am a Software Engineer at [NVIDIA Corporation](https://www.nvidia.com/en-us/). Previously, I obtained PhD degree in Computer Science at [University of California, Riverside](https://www1.cs.ucr.edu/). Prior to the PhD study in Computer Science, I obtained MS and BS degrees from [Duke University](https://duke.edu/) and [University of Science and Technology of China](https://en.ustc.edu.cn/), both in Chemistry. 
 
-I am currently focusing on performance optimization for math libraries on CPUs, GPUs and heterogeneous platforms. I have interned with the XPU Architecture Research team at [Intel Corporation](https://www.intel.com) working on GPU-accelerated homomorphic encryption. In 2022 Spring, I have been with the Machine Learning System team at [ByteDance US](https://www.bytedance.com/en/) as a Research Intern. In 2022 Summer, I was with the Fast Kernels team at [NVIDIA Corporation](https://www.nvidia.com/en-us/) as an engineering intern, where I will return as a full-time employee after graduation.
+I am currently focusing on performance optimization for math libraries on CPUs, GPUs and heterogeneous platforms. I have interned with the XPU Architecture Research team at [Intel Corporation](https://www.intel.com) working on GPU-accelerated homomorphic encryption. In 2022 Spring, I have been with the Machine Learning System team at [ByteDance US](https://www.bytedance.com/en/) as a Research Intern. In 2022 Summer, I was with the Fast Kernels team at [NVIDIA Corporation](https://www.nvidia.com/en-us/) as an engineering intern.
 
 News
 ======
