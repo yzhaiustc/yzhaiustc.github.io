@@ -14,6 +14,8 @@ I am currently focusing on performance optimization for math libraries on CPUs, 
 
 News
 ======
+* Sept. 2025: I was invited to give a talk at ByteDance.
+* Mar. 2024: I was invited to give a talk at Google.
 * June. 2023: I obtained my PhD degree in Computer Science and returned to the CUTLASS team at NVIDIA as a software engineer.
 * June. 2023: I was invited to give a talk at Biren Technology.
 * April. 2023: A paper was accepted at International Conference on Supercomputing 2023.
